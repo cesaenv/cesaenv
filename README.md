@@ -13,12 +13,12 @@ I work in QA, but not the kind that just writes automated tests. I automate them
 
 Trabajo en QA, pero no del tipo que solo escribe tests automáticos. Los automatizo y luego construyo alrededor el flujo de CI, para que lo manual quede atrás. Me encanta saber que todo está estable y que no habrá sorpresas el viernes por la tarde.
 
-**Ahora mismo:** montando mi homelab e intentando no romper mi primer mini PC con modelos de IA locales.
+**Ahora mismo:** montando mi homelab e intentando no romper mi primer mini PC con modelos de IA locales :)
 </details>
 
 ## Currently
 
-Setting up my homelab and trying not to break my first mini PC with local AI models.
+Setting up my homelab and trying not to break my first mini PC with local AI models :)
 
 ## Stack
 
