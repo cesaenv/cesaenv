@@ -2,7 +2,7 @@
 <p align="center"><b>QA Engineer</b> · MSc student in Data Science &amp; Machine Learning · Logroño 🇪🇸</p>
 
 <p align="center">
-  <a href="https://cesaenv.github.io/"><img src="https://img.shields.io/badge/Website-0F1A2E?style=for-the-badge&logo=astro&logoColor=white" alt="Website"></a>
+  <a href="https://cesaenv.github.io/en/"><img src="https://img.shields.io/badge/Website-0F1A2E?style=for-the-badge&logo=astro&logoColor=white" alt="Website"></a>
   <a href="https://www.linkedin.com/in/celia-s%C3%A1enz-villalta-446840325/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:saenzvillaltacelia@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
