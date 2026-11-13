@@ -40,5 +40,5 @@ Setting up my homelab and trying not to break my first mini PC with local AI mod
 
 ## Projects
 
-- [**neighborhood-web**](https://github.com/cesaenv/neighborhood-web) — website for my town's neighborhood association.
+- [**neighborhood-web**](https://github.com/cesaenv/neighborhood-web) — website for my town's neighborhood association. [Live site](https://aldeanuevadecameros.com/)
 - More coming soon.
