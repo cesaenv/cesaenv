@@ -14,12 +14,12 @@ I work in QA, but not the kind that just writes automated tests. I automate them
 
 Trabajo en QA, pero no del tipo que solo escribe tests automáticos. Los automatizo y luego construyo alrededor el flujo de CI, para que lo manual quede atrás. Me encanta saber que todo está estable y que no habrá sorpresas el viernes por la tarde.
 
-**Ahora mismo:** montando mi homelab e intentando no romper mi primer mini PC con modelos de IA locales :)
+**Ahora mismo:** montando mi homelab, explorando modelos de IA en local y empezando a construir herramientas con MCP. Todo sin romper mi primer mini PC :)
 </details>
 
 ## Currently
 
-Setting up my homelab and trying not to break my first mini PC with local AI models :)
+Setting up my homelab, exploring local AI models, and starting to build tools on top of MCP. All without breaking my first mini PC :)
 
 ## Stack
 
@@ -38,8 +38,11 @@ Setting up my homelab and trying not to break my first mini PC with local AI mod
 
 - **MSc in Data Science and Machine Learning** — University of La Rioja (2026–2028)
 - **BSc in Computer Science** — University of La Rioja (2021–2025)
+
 ## Projects
 
 - [**cesaenv.github.io**](https://github.com/cesaenv/cesaenv.github.io) — my personal website, built with Astro in Spanish and English. [Live site](https://cesaenv.github.io/)
 - [**neighborhood-web**](https://github.com/cesaenv/neighborhood-web) — website for my town's neighborhood association. [Live site](https://aldeanuevadecameros.com/)
+- [**spikes**](https://github.com/cesaenv/spikes) — short data and ML investigations written in plain HTML and CSS: bots vs humans in web logs, and handwritten digit and letter recognition with CNNs that run in the browser.
+- [**games**](https://github.com/cesaenv/games) — small browser games in plain HTML, CSS and JavaScript (2048, Snake, Minesweeper, Tetris, Memory and Tic-tac-toe), each with automatic players to watch. Shares the theme with my website.
 - More coming soon...
